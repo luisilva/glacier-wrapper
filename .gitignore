@@ -1,0 +1,5 @@
+*.tgz
+*.zip
+*.log
+*.csv
+credentials.csv
